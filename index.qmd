@@ -4,30 +4,34 @@ author: "Sarah von Grebmer"
 date: "today"
 date-format: "DD/MM/YYYY"
 format: 
+  osc-brand-html:
+    toc: true
   revealjs:
-    css: ../../assets/slides-custom.css # looks for css file in root
+    css: assets/slides-custom.css
     footer: LMU Open Science Center
     slide-number: true
-    logo: ../../assets/logos/OSC_Logo.jpg  # Inserts logo in the bottom right corner (default)
+    logo: assets/logos/OSC_Logo.jpg  # Inserts logo in the bottom right corner (default)
+    output-file: slides-git-revealjs.html
+    filters:
+      - timer
   pdf:
     geometry: 
       - top=30mm
       - left=30mm
-  pptx: default
+    output-file: slides-git.pdf
+  osc-brand-pptx:
+    output-file: slides-git.pptx
 
 revealjs-plugins:
   - tabset
 
-bibliography: ../../assets/references.bib
-csl: ../../assets/apa.csl
+bibliography: assets/references.bib
+csl: assets/apa.csl
 
 execute:
   echo: true
   eval: true
   engine: knitr
-
-filters: 
-  - timer
 ---
 
 <!-- 
