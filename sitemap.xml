@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lmu-osc.github.io/slides-git/LICENSE-CODE.html</loc>
-    <lastmod>2026-11-05T11:07:10.567Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/slides-git/LICENSE.html</loc>
-    <lastmod>2026-11-05T11:07:10.568Z</lastmod>
+    <loc>https://lmu-osc.github.io/slides-git/index.html</loc>
+    <lastmod>2026-11-05T11:54:32.692Z</lastmod>
   </url>
   <url>
     <loc>https://lmu-osc.github.io/slides-git/slides-git-revealjs.html</loc>
-    <lastmod>2026-11-05T11:40:09.432Z</lastmod>
+    <lastmod>2026-11-05T11:54:32.692Z</lastmod>
   </url>
   <url>
-    <loc>https://lmu-osc.github.io/slides-git/index.html</loc>
-    <lastmod>2026-11-05T11:40:09.432Z</lastmod>
+    <loc>https://lmu-osc.github.io/slides-git/LICENSE.html</loc>
+    <lastmod>2026-11-05T11:54:32.654Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/slides-git/LICENSE-CODE.html</loc>
+    <lastmod>2026-11-05T11:54:32.654Z</lastmod>
   </url>
 </urlset>
