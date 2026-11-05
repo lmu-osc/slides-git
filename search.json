@@ -94,8 +94,8 @@
     "objectID": "slides-git-revealjs.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063686172742d6261722073697a653d3178203e7d7d-who-is-familiar-with-these-problems",
     "href": "slides-git-revealjs.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063686172742d6261722073697a653d3178203e7d7d-who-is-familiar-with-these-problems",
     "title": "Introduction to version control with Git in RStudio",
-    "section": "{{< fa chart-bar size=1x >}} Who is familiar with these problems?",
-    "text": "{{&lt; fa chart-bar size=1x &gt;}} Who is familiar with these problems?\n\nInconsistent data and file management aka I cannot find my files\nHardware failures (coffee spill, laptop dropped, lost laptop, broken USB) aka my work is lost\nExtended periods of time between project actions aka I forgot what I was working on\nExperimentation with new features aka I tried something and my laptop is now smoking\nAll of the above\nNone of the above (are you sure?)\n\n\nPresenter Notes: Your turn: Who is familiar with these problems?\nInstructor Notes: Prepare an interactive survey in advance, e.g., by using Particify, to make this part more interactive. Closely examine the answers given and create a shared understanding that many students in class are experiencing similar issues.\nAccessibility Tip: Note that an interactive online survey only works for a synchronous in-class setting. Skip this slide as appropriate."
+    "section": " Who is familiar with these problems?",
+    "text": "Who is familiar with these problems?\n\nInconsistent data and file management aka I cannot find my files\nHardware failures (coffee spill, laptop dropped, lost laptop, broken USB) aka my work is lost\nExtended periods of time between project actions aka I forgot what I was working on\nExperimentation with new features aka I tried something and my laptop is now smoking\nAll of the above\nNone of the above (are you sure?)\n\n\nPresenter Notes: Your turn: Who is familiar with these problems?\nInstructor Notes: Prepare an interactive survey in advance, e.g., by using Particify, to make this part more interactive. Closely examine the answers given and create a shared understanding that many students in class are experiencing similar issues.\nAccessibility Tip: Note that an interactive online survey only works for a synchronous in-class setting. Skip this slide as appropriate."
   },
   {
     "objectID": "slides-git-revealjs.html#version-control",
@@ -109,28 +109,28 @@
     "href": "slides-git-revealjs.html#before-we-start-survey-time",
     "title": "Introduction to version control with Git in RStudio",
     "section": "Before we start: Survey time!",
-    "text": "Before we start: Survey time!\n{{&lt; fa chart-bar size=3x &gt;}}\n\nInstructor Notes: For a more interactive delivery, use free tools such as Particify] to create interactive surveys before you deliver this lesson. The pre-session survey serves to examine learners’ prior knowledge about version control and related concepts. Note that this survey cannot be completed in an asynchronous setting because the survey results cannot be displayed.\nAccessibility Tip: Note that this slide only works for a synchronous in-class setting. Skip the survey as appropriate."
+    "text": "Before we start: Survey time!\n\n\nInstructor Notes: For a more interactive delivery, use free tools such as Particify] to create interactive surveys before you deliver this lesson. The pre-session survey serves to examine learners’ prior knowledge about version control and related concepts. Note that this survey cannot be completed in an asynchronous setting because the survey results cannot be displayed.\nAccessibility Tip: Note that this slide only works for a synchronous in-class setting. Skip the survey as appropriate."
   },
   {
     "objectID": "slides-git-revealjs.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063686172742d6261722073697a653d3178203e7d7d",
     "href": "slides-git-revealjs.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063686172742d6261722073697a653d3178203e7d7d",
     "title": "Introduction to version control with Git in RStudio",
-    "section": "{{< fa chart-bar size=1x >}}",
-    "text": "{{&lt; fa chart-bar size=1x &gt;}}\nWhat is your level of familiarity with version control?\n\nI have never heard of it before.\nI have heard of it but have never worked with it.\nI have a basic understanding and some experience with it.\nI am very familiar and have worked with it extensively."
+    "section": "",
+    "text": "What is your level of familiarity with version control?\n\nI have never heard of it before.\nI have heard of it but have never worked with it.\nI have a basic understanding and some experience with it.\nI am very familiar and have worked with it extensively."
   },
   {
     "objectID": "slides-git-revealjs.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063686172742d6261722073697a653d3178203e7d7d-1",
     "href": "slides-git-revealjs.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063686172742d6261722073697a653d3178203e7d7d-1",
     "title": "Introduction to version control with Git in RStudio",
-    "section": "{{< fa chart-bar size=1x >}}",
-    "text": "{{&lt; fa chart-bar size=1x &gt;}}\nWhich of the following concepts or skills do you feel confident in? (Select all that apply.)\n\nGit\nGitHub\nRepositories\nRStudio Project\nI am not sure about any of these concepts."
+    "section": "",
+    "text": "Which of the following concepts or skills do you feel confident in? (Select all that apply.)\n\nGit\nGitHub\nRepositories\nRStudio Project\nI am not sure about any of these concepts."
   },
   {
     "objectID": "slides-git-revealjs.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063686172742d6261722073697a653d3178203e7d7d-2",
     "href": "slides-git-revealjs.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063686172742d6261722073697a653d3178203e7d7d-2",
     "title": "Introduction to version control with Git in RStudio",
-    "section": "{{< fa chart-bar size=1x >}}",
-    "text": "{{&lt; fa chart-bar size=1x &gt;}}\nHow comfortable are you with using Git for version control?\n\n1 = Not comfortable at all\n2\n3\n4\n5 = Very comfortable"
+    "section": "",
+    "text": "How comfortable are you with using Git for version control?\n\n1 = Not comfortable at all\n2\n3\n4\n5 = Very comfortable"
   },
   {
     "objectID": "slides-git-revealjs.html#discussion-of-survey-results",
@@ -829,8 +829,8 @@
     "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063686172742d6261722073697a653d3178203e7d7d-who-is-familiar-with-these-problems",
     "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063686172742d6261722073697a653d3178203e7d7d-who-is-familiar-with-these-problems",
     "title": "Introduction to version control with Git in RStudio",
-    "section": "{{< fa chart-bar size=1x >}} Who is familiar with these problems?",
-    "text": "{{&lt; fa chart-bar size=1x &gt;}} Who is familiar with these problems?\n\nInconsistent data and file management aka I cannot find my files\nHardware failures (coffee spill, laptop dropped, lost laptop, broken USB) aka my work is lost\nExtended periods of time between project actions aka I forgot what I was working on\nExperimentation with new features aka I tried something and my laptop is now smoking\nAll of the above\nNone of the above (are you sure?)\n\n\nPresenter Notes: Your turn: Who is familiar with these problems?\nInstructor Notes: Prepare an interactive survey in advance, e.g., by using Particify, to make this part more interactive. Closely examine the answers given and create a shared understanding that many students in class are experiencing similar issues.\nAccessibility Tip: Note that an interactive online survey only works for a synchronous in-class setting. Skip this slide as appropriate."
+    "section": " Who is familiar with these problems?",
+    "text": "Who is familiar with these problems?\n\nInconsistent data and file management aka I cannot find my files\nHardware failures (coffee spill, laptop dropped, lost laptop, broken USB) aka my work is lost\nExtended periods of time between project actions aka I forgot what I was working on\nExperimentation with new features aka I tried something and my laptop is now smoking\nAll of the above\nNone of the above (are you sure?)\n\n\nPresenter Notes: Your turn: Who is familiar with these problems?\nInstructor Notes: Prepare an interactive survey in advance, e.g., by using Particify, to make this part more interactive. Closely examine the answers given and create a shared understanding that many students in class are experiencing similar issues.\nAccessibility Tip: Note that an interactive online survey only works for a synchronous in-class setting. Skip this slide as appropriate."
   },
   {
     "objectID": "index.html#version-control",
@@ -844,28 +844,28 @@
     "href": "index.html#before-we-start-survey-time",
     "title": "Introduction to version control with Git in RStudio",
     "section": "Before we start: Survey time!",
-    "text": "Before we start: Survey time!\n{{&lt; fa chart-bar size=3x &gt;}}\n\nInstructor Notes: For a more interactive delivery, use free tools such as Particify] to create interactive surveys before you deliver this lesson. The pre-session survey serves to examine learners’ prior knowledge about version control and related concepts. Note that this survey cannot be completed in an asynchronous setting because the survey results cannot be displayed.\nAccessibility Tip: Note that this slide only works for a synchronous in-class setting. Skip the survey as appropriate."
+    "text": "Before we start: Survey time!\n\n\nInstructor Notes: For a more interactive delivery, use free tools such as Particify] to create interactive surveys before you deliver this lesson. The pre-session survey serves to examine learners’ prior knowledge about version control and related concepts. Note that this survey cannot be completed in an asynchronous setting because the survey results cannot be displayed.\nAccessibility Tip: Note that this slide only works for a synchronous in-class setting. Skip the survey as appropriate."
   },
   {
     "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063686172742d6261722073697a653d3178203e7d7d",
     "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063686172742d6261722073697a653d3178203e7d7d",
     "title": "Introduction to version control with Git in RStudio",
-    "section": "{{< fa chart-bar size=1x >}}",
-    "text": "{{&lt; fa chart-bar size=1x &gt;}}\nWhat is your level of familiarity with version control?\n\nI have never heard of it before.\nI have heard of it but have never worked with it.\nI have a basic understanding and some experience with it.\nI am very familiar and have worked with it extensively."
+    "section": "",
+    "text": "What is your level of familiarity with version control?\n\nI have never heard of it before.\nI have heard of it but have never worked with it.\nI have a basic understanding and some experience with it.\nI am very familiar and have worked with it extensively."
   },
   {
     "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063686172742d6261722073697a653d3178203e7d7d-1",
     "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063686172742d6261722073697a653d3178203e7d7d-1",
     "title": "Introduction to version control with Git in RStudio",
-    "section": "{{< fa chart-bar size=1x >}}",
-    "text": "{{&lt; fa chart-bar size=1x &gt;}}\nWhich of the following concepts or skills do you feel confident in? (Select all that apply.)\n\nGit\nGitHub\nRepositories\nRStudio Project\nI am not sure about any of these concepts."
+    "section": "",
+    "text": "Which of the following concepts or skills do you feel confident in? (Select all that apply.)\n\nGit\nGitHub\nRepositories\nRStudio Project\nI am not sure about any of these concepts."
   },
   {
     "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063686172742d6261722073697a653d3178203e7d7d-2",
     "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063686172742d6261722073697a653d3178203e7d7d-2",
     "title": "Introduction to version control with Git in RStudio",
-    "section": "{{< fa chart-bar size=1x >}}",
-    "text": "{{&lt; fa chart-bar size=1x &gt;}}\nHow comfortable are you with using Git for version control?\n\n1 = Not comfortable at all\n2\n3\n4\n5 = Very comfortable"
+    "section": "",
+    "text": "How comfortable are you with using Git for version control?\n\n1 = Not comfortable at all\n2\n3\n4\n5 = Very comfortable"
   },
   {
     "objectID": "index.html#discussion-of-survey-results",
