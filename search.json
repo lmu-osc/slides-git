@@ -977,7 +977,7 @@
     "href": "slides-git-revealjs.html#generating-a-new-ssh-key-pair-2",
     "title": "Introduction to version control with Git in RStudio",
     "section": "Generating a new SSH key pair",
-    "text": "Generating a new SSH key pair\nStep 3: Next, you are asked to provide a passphrase in the terminal (see the next slide for more information!).\n\n\n\nTerminal\n\nEnter passphrase (empty for no passphrase):  \nEnter same passphrase again:\n\n\n\n\n\n\n\n\n\nWarning\n\n\nWhen you type passwords in the command line, nothing is displayed, you are however still typing in the background. This is normal behaviour by the command line.\n\n\n\n\nPresenter Notes: Next, you are asked to provide a passphrase in the terminal. Protecting your keys with a password is optional but highly recommended. Start typing the password next to the first prompt. Note that your input will be invisible and you will feel like you are not typing. This is normal behaviour. Just enter your password regardless. Re-confirm the password at the second prompt and press ENTER.\nInstructor Notes: Emphasize the normal behaviour of the terminal that your audience is unable to see anything they type and that there is no need for concern."
+    "text": "Generating a new SSH key pair\nStep 3: Next, you are asked to provide a passphrase in the terminal (see the next slide for more information!).\n\n\n\n\n\n\n\nWarning\n\n\nWhen you type passwords in the command line, nothing is displayed, you are however still typing in the background. This is normal behaviour by the command line.\n\n\n\n\nPresenter Notes: Next, you are asked to provide a passphrase in the terminal. Protecting your keys with a password is optional but highly recommended. Start typing the password next to the first prompt. Note that your input will be invisible and you will feel like you are not typing. This is normal behaviour. Just enter your password regardless. Re-confirm the password at the second prompt and press ENTER.\nInstructor Notes: Emphasize the normal behaviour of the terminal that your audience is unable to see anything they type and that there is no need for concern."
   },
   {
     "objectID": "slides-git-revealjs.html#some-notes-on-passphrases",
@@ -1012,7 +1012,7 @@
     "href": "slides-git-revealjs.html#adding-the-ssh-key-to-github-account-1",
     "title": "Introduction to version control with Git in RStudio",
     "section": "Adding the SSH key to GitHub account",
-    "text": "Adding the SSH key to GitHub account\nStep 2: The output should be something like below. This is the output that needs to be copied in its entirety.\n\n\n\nTerminal\n\n# The output looks like this. The characters after ssh-ed25519 will be different for you, however.\nssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFEKiimOpcayfHhlbjmnIBAUX74FY/o20k9yFA16XOLm your_email@email.com\n\n\n\n\n\n\n\n\n\nImportant\n\n\nCopy the contents of the output to your clipboard.\n\n\n\n\nPresenter Notes: After printing your public key in the terminal, you need to copy the contents of the output to your clipboard.\nInstructor Notes: Highlight that the characters after ssh-ed25519 will be different for each learner and the email will match the email the learners have added on an individual basis."
+    "text": "Adding the SSH key to GitHub account\nStep 2: The output should be something like below. This is the output that needs to be copied in its entirety.\n\n\n\n\n\n\n\nImportant\n\n\nCopy the contents of the output to your clipboard.\n\n\n\n\nPresenter Notes: After printing your public key in the terminal, you need to copy the contents of the output to your clipboard.\nInstructor Notes: Highlight that the characters after ssh-ed25519 will be different for each learner and the email will match the email the learners have added on an individual basis."
   },
   {
     "objectID": "slides-git-revealjs.html#adding-the-ssh-key-to-github-account-2",
@@ -1229,7 +1229,7 @@
     "href": "slides-git-revealjs.html#making-changes-optional-exercise",
     "title": "Introduction to version control with Git in RStudio",
     "section": "Making changes: Optional Exercise",
-    "text": "Making changes: Optional Exercise\nStep 3 (optional): Create another R file with File &gt; New File &gt; R script. Save as simulation_script.R. Then add and run the code below in the new R script:\n\n#Simulate some data\nplot(rnorm(100,0,1))\n\n\n\nInstructor Notes: Optional exercise for more advanced learners if they finished before the others."
+    "text": "Making changes: Optional Exercise\nStep 3 (optional): Create another R file with File &gt; New File &gt; R script. Save as simulation_script.R. Then add and run the code below in the new R script:\n\n\nInstructor Notes: Optional exercise for more advanced learners if they finished before the others."
   },
   {
     "objectID": "slides-git-revealjs.html#committing-changes",
